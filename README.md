@@ -7,7 +7,8 @@ The dataset and Jupyter Notebook provided all the necessary files for the analys
 
 
 ## Quick Glimps of contents
-![download](https://github.com/user-attachments/assets/7a1b0c13-9632-45ed-8815-e345cd595748)
+![download](https://github.com/user-attachments/assets/0c432b9f-a09c-46ff-8c42-bd948fb1647a)
+
 
 
 ## Summary  
