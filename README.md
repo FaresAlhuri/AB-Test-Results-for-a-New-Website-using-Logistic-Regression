@@ -33,7 +33,7 @@ The dataset and Jupyter Notebook provided all the necessary files for the analys
 <img width="1383" height="248" alt="{371C752A-850A-4D98-ACD6-089523B177E9}" src="https://github.com/user-attachments/assets/121c6418-7c9d-4d0c-97af-de1642d88f10" />
 
 
-## Conclusion of Analysis:
+## Analysis conclusion:
 <img width="1239" height="750" alt="{BE651A1E-B58A-4517-98AE-9D07C73FD140}" src="https://github.com/user-attachments/assets/5e7a8291-55e2-46b0-817f-9485861bda99" />
 
 ## Summary  
