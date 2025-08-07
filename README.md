@@ -9,7 +9,7 @@ The **goal** was to determine whether the company should:
 2. Retain the old one
 3. or extend the experiment to gather more data before making a decision.  
 
-The dataset and Jupyter Notebook provided all the necessary files for the analysis. Throughout the project, I followed a structured approach to ensure my findings were statistically sound. Additionally, some parts of the notebook referenced quizzes from the course to help verify my understanding of key concepts. While completing the quizzes was not mandatory for the project, I **ensured that all the items on the **Project Rubric** met the required specifications** for successful completion.
+Throughout the project, I followed a structured approach to ensure my findings were statistically sound. While completing the quizzes was not mandatory for the project, I **ensured that all the items on the **Project Rubric** met the required specifications** for successful completion and results.
 
 ## Hypothesis:
 <img width="1332" height="315" alt="{912840AC-FB1F-47AB-8507-51931DCF7F48}" src="https://github.com/user-attachments/assets/2c20b8a2-44dd-447b-b626-4ef0d81f6fa0" />
