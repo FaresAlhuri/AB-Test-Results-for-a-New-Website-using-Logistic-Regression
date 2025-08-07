@@ -24,7 +24,7 @@ The dataset and Jupyter Notebook provided all the necessary files for the analys
 <img width="1359" height="578" alt="{5A7912E5-580F-40DF-BC1C-8171D158500E}" src="https://github.com/user-attachments/assets/d91048a0-f6a7-4ff1-be20-36e6192dcff3" />
 
 
-## The code used to implement the Z-Test:
+## Code used to implement the Z-Test:
 <img width="1383" height="248" alt="{371C752A-850A-4D98-ACD6-089523B177E9}" src="https://github.com/user-attachments/assets/121c6418-7c9d-4d0c-97af-de1642d88f10" />
 
 
