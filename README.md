@@ -11,15 +11,20 @@ The **goal** was to determine whether the company should:
 
 The dataset and Jupyter Notebook provided all the necessary files for the analysis. Throughout the project, I followed a structured approach to ensure my findings were statistically sound. Additionally, some parts of the notebook referenced quizzes from the course to help verify my understanding of key concepts. While completing the quizzes was not mandatory for the project, I **ensured that all the items on the **Project Rubric** met the required specifications** for successful completion.
 
+## Hypothesis:
+<img width="1332" height="315" alt="{912840AC-FB1F-47AB-8507-51931DCF7F48}" src="https://github.com/user-attachments/assets/2c20b8a2-44dd-447b-b626-4ef0d81f6fa0" />
+
+
 ## General process of calculating the conversion rate increase/decrease:
-<img width="1359" height="427" alt="{1ADA3DE1-0601-4724-A507-FC4A3190F9B9}" src="https://github.com/user-attachments/assets/fd6d1426-9c27-4345-9829-98616948c9a3" />
+<img width="1326" height="307" alt="{3A69C8DF-D2DD-4698-8707-31DCB0C0887F}" src="https://github.com/user-attachments/assets/991bf6e3-32f4-4fe8-a1bc-7479dc84201e" />
+
 
 
 ## General process using the Z-Test (Conversion difference):
 <img width="1359" height="578" alt="{5A7912E5-580F-40DF-BC1C-8171D158500E}" src="https://github.com/user-attachments/assets/d91048a0-f6a7-4ff1-be20-36e6192dcff3" />
 
 
-## Sampled distribution of the conversion differences
+## Sampled distribution of the conversion differences:
 ![download](https://github.com/user-attachments/assets/0c432b9f-a09c-46ff-8c42-bd948fb1647a)
 
 
